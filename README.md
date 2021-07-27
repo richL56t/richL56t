@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @richL56t
-- 👀 I’m interested in GL
+- 👀 I’m interested in YAN
 - 🌱 I’m currently learning Economic & Java
-- 💞️ I’m looking to collaborate on GL
+- 💞️ I’m looking to collaborate on YAN
 - 📫 How to reach me richard.li@dreamlot.com
 
 <!---
